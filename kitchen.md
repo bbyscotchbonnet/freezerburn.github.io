@@ -13,3 +13,6 @@ I know I missed a bunch. Some have been revived, even improved -- although the q
 they were thrown in the wood chipper in the first place."
                                                                         -Gail Simone, March 1999
 ```
+
+[1] Oziewicz, Marek. Speculative Fiction. Oxford University Press, Mar. 2017, https://doi.org/10.1093/acrefore/9780190201098.013.78.
+[2] Simone, Gail. [Women In Refrigerators] (https://lby3.com/wir/index.html). March 1999.
