@@ -3,18 +3,9 @@
 
 ### _About_
 
-One of the great tragedies of sentience is the inability to turn your brain off. You are constantly observing, analyzing, and coming to conclusions. Just because the things that you are observing aren't necessarily grounded in reality does not mean that they exist outside of that process. Fiction--especially speculative fiction, whose historical evolution is oriented around its _rejection_ of reality in favor of imagining impossibility--is not above analysis and critique [1]. In other words, despite how much I love comic books, it does not mean that a switch in my brain labeled **feminism** gets flipped off so I can enjoy the plot.  
+[FiveThirtyEight] (fivethirtyeight.com) is a website that dedicates itself to increasing public knowledge through the use of data visualization. On October 13, 2014, an article was published called [Comic Books Are Still Made By Men, For Men And About Men] (https://fivethirtyeight.com/features/women-in-comic-books/). The goal of the article was to use data on comic book characters from both the Marvel and DC Comics collections to come to look at comic book characters and their historical development through the lens of gender. Ironically, the article was written by a man--Walt Hickey. 
 
-In 1999, comic book writer Gail Simone published a website called [Women In Refrigerators](https://lby3.com/wir/index.html). Simone, not a comic book expert by any means, had realized that there was a trend when it came to female characters in comic books. Publishing an inexhuastive list of characters, she presented her general conclusions to the public for their opinion. "...It occurred to me that it's not that healthy to be a female character in comics." Because of this publication, Women Refrigerators (also known as 'fridging' or 'being fridged') has become a critical term in the pop culture glossary. 
-
-```markdown
-"These are superheroines who have been either depowered, raped, or cut up and stuck in the refrigerator.
-I know I missed a bunch. Some have been revived, even improved -- although the question remains as to why
-they were thrown in the wood chipper in the first place."
-                                                                        -Gail Simone, March 1999
-```
-
-
+Hickey made the data public on Github, allowing me to use it for my Digital Humanities Project. There are two datasets (one for Marvel and one for DC) that pulls its data from the respective Wikia blog pages of every recorded character in the compendium. 
 
 - Bulleted
 - List
