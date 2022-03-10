@@ -27,6 +27,11 @@ Though the data itself was already cleaned by Walt Hickey of FiveThirtyEight for
 ### An Appliance By Any Other Name...
   #### _Or, what the data tells us_
   
+  <script src="https://public.tableau.com/views/MarvelSexandYearIntroduced/Sheet3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"></script>
+...
+<!-- Empty div where the viz will be placed -->
+<div id="tableauViz"></div>
+  
 
 
 [1] Oziewicz, Marek. Speculative Fiction. Oxford University Press, Mar. 2017, https://doi.org/10.1093/acrefore/9780190201098.013.78.
