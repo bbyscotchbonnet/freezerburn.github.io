@@ -1,7 +1,5 @@
-# Don't Leave The Fridge Open--You'll Let Out All The Cold Air!
-### Or, the data
-
-### On Behalf of *Fictional* Women Everywhere
+# Who's Hungry?
+### Or, A Brief Acknoweledgment On Behalf of *Fictional* Women Everywhere
 
 One of the great tragedies of sentience is the inability to turn your brain off. You are constantly observing, analyzing, and coming to conclusions. Just because the things that you are observing aren't necessarily grounded in reality does not mean that they exist outside of that process. Fiction--especially speculative fiction, whose historical evolution is oriented around its _rejection_ of reality in favor of imagining impossibility--is not above analysis and critique [1]. In other words, despite how much I love comic books, it does not mean that a switch in my brain labeled **feminism** gets flipped off so I can enjoy the plot.  
 
@@ -13,6 +11,15 @@ I know I missed a bunch. Some have been revived, even improved -- although the q
 they were thrown in the wood chipper in the first place."
                                                                         -Gail Simone, March 1999
 ```
+
+# Don't Leave The Fridge Open--You'll Let Out All The Cold Air!
+### Or, the data
+
+
+
+### An Appliance By Any Other Name...
+  #### Or, what the data says
+
 
 [1] Oziewicz, Marek. Speculative Fiction. Oxford University Press, Mar. 2017, https://doi.org/10.1093/acrefore/9780190201098.013.78.
 [2] Simone, Gail. [Women In Refrigerators] (https://lby3.com/wir/index.html). March 1999.
