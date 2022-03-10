@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+  # Is It Cold In Here?
+  ## An Exploration of Gender, Comic Books, and a Beloved Kitchen Appliance
+  
+### Don't Leave The Fridge Open--You'll Let Out All The Cold Air!
 
-You can use the [editor on GitHub](https://github.com/bbyscotchbonnet/bbyscotchbonnet.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+One of the great tragedies of sentience is the inability to turn your brain off. You are constantly observing, analyzing, and coming to conclusions. Just because the things that you are observing aren't necessarily grounded in reality does not mean that they exist outside of that process. Fiction--especially speculative fiction, whose historical evolution is oriented around its _rejection_ of reality in favor of imagining impossibility--is not above analysis and critique [1]. In other words, despite how much I love comic books, it does not mean that a switch in my brain labeled **feminism** gets flipped off so I can enjoy the plot.  
 
 ### Markdown
 
